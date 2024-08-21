@@ -10,7 +10,7 @@ from sklearn.model_selection import KFold
 import os, time
 import numpy as np
 
-
+# classification number
 classification = 52
 
 
